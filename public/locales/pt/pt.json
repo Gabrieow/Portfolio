@@ -1,0 +1,187 @@
+{
+    "headerSessao": "abaixo é a sessão do header (isso é um comentário)",
+
+    "header": ["Sobre", "Skills", "Projetos", "Contato"],
+
+    "portfolio": "Portfólio | Gabriel Henrique",
+
+
+
+    "sobreMim": "abaixo é a sessão sobre mim (isso é um comentário)",
+
+    "titulo-sobre-mim": "Bem-vindo(a)! <br /> Me chamo <a>Gabriel</a> :)",
+    "texto-sobre-mim": "Sou um desenvolvedor apaixonado por criar aplicações e conteúdos de forma criativa. Meu foco principal está no desenvolvimento Back-End, utilizando C# e Next.js, mas também gosto de explorar novas tecnologias no front-end.",
+    "fatos-sobre-mim": "FATOS SOBRE MIM",
+    "precisando-desenvolvedor-sobre-mim": "PRECISANDO DE UM DESENVOLVEDOR?",
+    "visualizar-portfolio-sobre-mim": "Visualizar Portfólio",
+    "entre-em-contato-sobre-mim": "Entre em contato!",
+    "funFacts": [
+        "Eu adoro explorar novas tecnologias.",
+        "Sou fã de filosofia e livros de terror.",
+        "Sempre estou buscando aprender novas tecnologias.",
+        "Filmes que nos fazem refletir são os meus favoritos.",
+        "Nada como uma caminhada para relaxar.",
+        "Gosto de me desafiar com projetos inovadores.",
+        "Busco soluções criativas para problemas complexos.",
+        "Desenho e arte são formas de me expressar.",
+        "Inteligência Artificial me fascina cada vez mais.",
+        "Viajar me inspira a criar e explorar."
+    ],
+
+
+
+    
+    "cardSkills": "abaixo é a sessão card projetos (isso é um comentário)",
+
+    "nivel": "Nível:",
+    "destaques": "Destaques",
+    "infoSkillsUp": [
+    {
+        "CSharp": {
+          "Nível": "Intermediário",
+          "Destaques": "Desenvolvimento Back-End e integração de APIs REST."
+        },
+        "Java": {
+          "Nível": "Básico",
+          "Destaques": "Pequenos projetos de intuito acadêmico."
+        },
+        "Python": {
+          "Nível": "Intermediário",
+          "Destaques": "Automação de processos, desenvolvimento web com Django e automação de tarefas."
+        },
+        "JavaScript": {
+          "Nível": "Intermediário",
+          "Destaques": "Desenvolvimento de sites e criação de scripts para Web."
+        },
+        "DotNet": {
+          "Nível": "Básico",
+          "Destaques": "Pequenos projetos de intuito acadêmico."
+        },
+        "API": {
+          "Nível": "Básico",
+          "Destaques": "Utilização de APIs em projetos pessoais, confira na parte 'Projetos'."
+        },
+        "OOP": {
+          "Nível": "Avançado",
+          "Destaques": "Utilização de classes, atributos, interfaces de vários tipos e Criação de jogos RPG com OOP."
+        },
+        "SQL": {
+          "Nível": "Intermediário",
+          "Destaques": "Consulta e criação de banco de dados relacionais, com integração em C# e Python."
+        },
+        "MongoDB": {
+          "Nível": "Básico",
+          "Destaques": "Pequenos projetos de intuito acadêmico."
+        }
+    }],
+    "infoSkillsDown": [
+        {
+            "HTML5": {
+                "Nível": "Avançado",
+                "Destaques": "Criação de páginas estruturadas, acessibilidade e boas práticas."
+            },
+            "CSS3": {
+                "Nível": "Avançado",
+                "Destaques": "Design responsivo, animações CSS e pré-processadores."
+            },
+            "React": {
+                "Nível": "Intermediário",
+                "Destaques": "Componentização, hooks e integração com APIs."
+            },
+            "Angular": {
+                "Nível": "Básico",
+                "Destaques": "Criação de SPAs e consumo de APIs REST."
+            },
+            "Django": {
+                "Nível": "Básico",
+                "Destaques": "Criação de aplicações web e integração com bancos de dados."
+            },
+            "Docker": {
+                "Nível": "Básico",
+                "Destaques": "Conteinerização de aplicações e uso de imagens personalizadas."
+            },
+            "AWS": {
+                "Nível": "Básico",
+                "Destaques": "Noções gerais de cloud computing e serviços AWS."
+            }
+        }],
+
+
+    "cardProjetos": "abaixo é a sessão de card projetos (isso é um comentário)",
+
+    "projetos": "Projetos",
+    "todosOsProjetos": "Todos Os Projetos",
+
+    "projetosDestaque": [
+    {
+      "titulo": "Pavimento",
+      "subtitulo": "Portal de Arquitetura e Desenvolvimento Sustentável.",
+      "img": "provisorio.jpg",
+      "tecnologias": ["javascript-white", "html5-white", "css-white"],
+      "videoUrl": "https://www.youtube.com/embed/O-82ZvzU9ms",
+      "githubUrl": "https://github.com/Gabrieow/Pavimento",
+      "linkedinUrl": "https://www.linkedin.com/in/gabrielhvaz/",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "siteUrl": ""
+    },
+    {
+      "titulo": "RPG Combat System",
+      "subtitulo": "Jogo RPG com Combate de Turnos.",
+      "img": "provisorio.jpg",
+      "tecnologias": ["csharp-white"],
+      "videoUrl": "https://www.youtube.com/embed/O-82ZvzU9ms",
+      "githubUrl": "https://github.com/Gabrieow/RPG-C-GAME",
+      "linkedinUrl": "https://www.linkedin.com/in/gabrielhvaz/",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "siteUrl": ""
+    },
+    {
+      "titulo": "MiAuDote",
+      "subtitulo": "Adoção e Doação de Animais Domésticos.",
+      "img": "provisorio.jpg",
+      "tecnologias": ["javascript-white", "html5-white", "css-white"],
+      "videoUrl": "https://www.youtube.com/embed/O-82ZvzU9ms",
+      "githubUrl": "https://github.com/Gabrieow/MiAuDote-",
+      "linkedinUrl": "https://www.linkedin.com/in/gabrielhvaz/",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "siteUrl": ""
+    }
+  ],
+  "projetosTotal": [
+    {
+      "titulo": "Insira Aqui",
+      "subtitulo": "Subtitulo.",
+      "img": "provisorio.jpg",
+      "tecnologias": ["javascript-white", "html5-white", "css-white"],
+      "videoUrl": "https://www.youtube.com/embed/O-82ZvzU9ms",
+      "githubUrl": "https://github.com/Gabrieow/MiAuDote-",
+      "linkedinUrl": "https://www.linkedin.com/in/gabrielhvaz/",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "siteUrl": ""
+    },
+    {
+      "titulo": "Insira Aqui",
+      "subtitulo": "Subtitulo.",
+      "img": "provisorio.jpg",
+      "tecnologias": ["javascript-white", "html5-white", "css-white"],
+      "videoUrl": "https://www.youtube.com/embed/O-82ZvzU9ms",
+      "githubUrl": "https://github.com/Gabrieow/MiAuDote-",
+      "linkedinUrl": "https://www.linkedin.com/in/gabrielhvaz/",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "siteUrl": ""
+    },
+    {
+      "titulo": "Insira Aqui",
+      "subtitulo": "Subtitulo.",
+      "img": "provisorio.jpg",
+      "tecnologias": ["javascript-white", "html5-white", "css-white"],
+      "videoUrl": "https://www.youtube.com/embed/O-82ZvzU9ms",
+      "githubUrl": "https://github.com/Gabrieow/MiAuDote-",
+      "linkedinUrl": "https://www.linkedin.com/in/gabrielhvaz/",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "siteUrl": ""
+    }],
+
+  
+  "contato": "Contato"
+}

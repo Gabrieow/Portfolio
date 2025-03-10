@@ -1,0 +1,151 @@
+.dark {
+    --roxo-background: #11051B;
+    --roxo-forte: #6A0DAD;
+    --roxo-fraco: #A45DDB;
+    --branco: #d3d3d3;
+    --branco-forte: #FFFFFF;
+}
+
+/* ------ */
+
+.dark header{
+    background-color: var(--roxo-background);
+    box-shadow: 
+        0 4px 6px rgba(151, 151, 151, 0.3),
+        0 -4px 6px rgba(255, 255, 255, 0.253); 
+    border-bottom: 1px solid #2f0e4b;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.dark .fullscreen-menu{
+    background-color: #11051be3;
+}
+
+.dark body{
+    background-color: var(--roxo-background);
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.dark .titulo, .dark .subtitulo, .dark .texto{
+    color: var(--branco);
+}
+
+.dark .letras-estilizadas-1{
+    color: var(--branco-forte);
+}
+
+.dark .letras-estilizadas-3, .dark .letras-estilizadas-4, .dark .letras-estilizadas-5, .dark .letras-estilizadas-6{
+    color: var(--roxo-fraco);
+}
+
+.dark .quebralinha-curto{
+    background-color: var(--roxo-fraco);
+}
+
+/* ------ SOBRE MIM ------ */
+
+.dark .sobre-mim-div-principal{
+    background-color: var(--roxo-forte);
+    border: solid 2px var(--roxo-fraco);
+    box-shadow: 
+    10px 0 15px rgba(151, 151, 151, 0.155),
+    -10px 0 15px rgba(151, 151, 151, 0.155),
+    0 10px 15px rgba(151, 151, 151, 0.155),
+    0 -10px 15px rgba(151, 151, 151, 0.155);
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.dark .sobre-mim-conteudo-esquerda a{
+    color: var(--branco-forte);
+}
+
+.dark #visualizar-portfolio-botao, .dark #entre-em-contato-botao{
+    background-color: var(--roxo-background);
+    color: var(--branco);
+}
+
+.dark #fun-fact{
+    color: var(--branco);
+}
+
+/* ------ */
+
+.dark .card-interativo-skills{
+    background-color: var(--roxo-forte);
+    box-shadow: 
+    10px 0 15px rgba(151, 151, 151, 0.100),
+    -10px 0 15px rgba(151, 151, 151, 0.100),
+    0 10px 15px rgba(151, 151, 151, 0.100),
+    0 -10px 15px rgba(151, 151, 151, 0.100);
+}
+
+.dark .card-interativo-skills:hover{
+    box-shadow: 0 10px 25px rgba(151, 151, 151, 0.3);
+}
+
+.dark .card-info{
+    background-color: var(--roxo-fraco);
+    color: var(--roxo-background)
+}
+
+.dark .card-interativo-projetos{
+    background-color: #6A0DAD;
+    border: solid 1px var(--roxo-fraco);
+    box-shadow: 
+    10px 0 15px rgba(151, 151, 151, 0.100),
+    -10px 0 15px rgba(151, 151, 151, 0.100),
+    0 10px 15px rgba(151, 151, 151, 0.100),
+    0 -10px 15px rgba(151, 151, 151, 0.100);
+}
+
+.dark .card-projetos-titulo{
+    color: var(--branco-forte)
+}
+
+.dark .card-projetos-subtitulo{
+    color: var(--branco)
+}
+
+/* ------ */
+
+.dark .card-interativo-contato{
+    background-color: var(--roxo-forte);
+    border: solid 1px var(--roxo-fraco);
+    box-shadow: 
+    10px 0 15px rgba(151, 151, 151, 0.100),
+    -10px 0 15px rgba(151, 151, 151, 0.100),
+    0 10px 15px rgba(151, 151, 151, 0.100),
+    0 -10px 15px rgba(151, 151, 151, 0.100);
+}
+
+.dark .card-interativo-contato:hover {
+    box-shadow: 0 10px 25px rgba(151, 151, 151, 0.3);
+}
+
+/* ------ */
+
+.dark .projeto-detalhes-conteudo{
+    background-color: var(--roxo-fraco);
+    box-shadow: 
+    10px 0 15px rgba(151, 151, 151, 0.155),
+    -10px 0 15px rgba(151, 151, 151, 0.155),
+    0 10px 15px rgba(151, 151, 151, 0.155),
+    0 -10px 15px rgba(151, 151, 151, 0.155);
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.dark .fechar-modal {
+    background-color: var(--roxo-fraco);
+}
+
+.dark #video-inferior-button{
+    background-color: var(--branco);
+}
+
+.dark .projeto-info{
+    color: var(--branco);
+}
+
+.dark .projeto-video iframe{
+    border: solid 1px var(--roxo-fraco);
+  }
